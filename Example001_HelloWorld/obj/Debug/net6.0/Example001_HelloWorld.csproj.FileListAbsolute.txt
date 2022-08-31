@@ -1,0 +1,15 @@
+/Users/alex/Desktop/Education/C#/Lections/Example001_HelloWorld/bin/Debug/net6.0/Example001_HelloWorld
+/Users/alex/Desktop/Education/C#/Lections/Example001_HelloWorld/bin/Debug/net6.0/Example001_HelloWorld.deps.json
+/Users/alex/Desktop/Education/C#/Lections/Example001_HelloWorld/bin/Debug/net6.0/Example001_HelloWorld.runtimeconfig.json
+/Users/alex/Desktop/Education/C#/Lections/Example001_HelloWorld/bin/Debug/net6.0/Example001_HelloWorld.dll
+/Users/alex/Desktop/Education/C#/Lections/Example001_HelloWorld/bin/Debug/net6.0/Example001_HelloWorld.pdb
+/Users/alex/Desktop/Education/C#/Lections/Example001_HelloWorld/obj/Debug/net6.0/Example001_HelloWorld.csproj.AssemblyReference.cache
+/Users/alex/Desktop/Education/C#/Lections/Example001_HelloWorld/obj/Debug/net6.0/Example001_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/Education/C#/Lections/Example001_HelloWorld/obj/Debug/net6.0/Example001_HelloWorld.AssemblyInfoInputs.cache
+/Users/alex/Desktop/Education/C#/Lections/Example001_HelloWorld/obj/Debug/net6.0/Example001_HelloWorld.AssemblyInfo.cs
+/Users/alex/Desktop/Education/C#/Lections/Example001_HelloWorld/obj/Debug/net6.0/Example001_HelloWorld.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/Education/C#/Lections/Example001_HelloWorld/obj/Debug/net6.0/Example001_HelloWorld.dll
+/Users/alex/Desktop/Education/C#/Lections/Example001_HelloWorld/obj/Debug/net6.0/refint/Example001_HelloWorld.dll
+/Users/alex/Desktop/Education/C#/Lections/Example001_HelloWorld/obj/Debug/net6.0/Example001_HelloWorld.pdb
+/Users/alex/Desktop/Education/C#/Lections/Example001_HelloWorld/obj/Debug/net6.0/Example001_HelloWorld.genruntimeconfig.cache
+/Users/alex/Desktop/Education/C#/Lections/Example001_HelloWorld/obj/Debug/net6.0/ref/Example001_HelloWorld.dll
