@@ -28,6 +28,7 @@ int IndexOf(int[] collection, int find)
 {
     int count = collection.Length;
     int index = 0;
+    // Write '-1' if there is no element equil to 'find'
     int position = -1;
 
     while (index < count)
